@@ -58,7 +58,7 @@ module.exports = (appWin) => {
           label: "Learn more",
           click: () => {
             shell.openExternal(
-              "https://github.com/stackacademytv/master-electron"
+              "https://github.com/hoffmann-muki/readit-desktop-app"
             );
           },
         },
